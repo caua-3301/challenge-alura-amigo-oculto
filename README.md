@@ -12,7 +12,6 @@ Veja como funciona o simulador:
 
 1. Digite os nomes dos participantes na lista.
 2. Clique em **"Sortear amigo"** para realizar o sorteio.
-3. Veja os pares de amigos secretos sendo exibidos na tela! 💌
 
 ## 🛠️ Tecnologias Utilizadas
 
